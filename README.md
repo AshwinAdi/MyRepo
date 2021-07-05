@@ -1,2 +1,2 @@
 # MyRepo
-test repo
+test repository
